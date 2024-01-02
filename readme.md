@@ -3,6 +3,7 @@
 
 ## sites : 
 - https://stackedit.io/app# markdown editor
+- https://www.blackbox.ai/
 
 
 ## redteam tools
